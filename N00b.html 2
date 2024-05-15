@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>The World of cricket</title>
+   <style>
+  
+    body{
+     font-family: monospacesans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;  }
+     
+       header {
+            background-color: black;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+
+       #cricket-slogan {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+       #div.mycontainer div { 
+           width: 32%;
+           float: left; 
+           margin: auto;
+           padding:5px;
+       }
+
+       footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        </style> 
+   </head>
+    <body> 
+        
+        <header> 
+         <h1> The world of cricket </h1> 
+         <p id="cricket-slogan"> Blud is crazy, blud thinks he's him, baxter is  a certified yapper!$$! </p>
+</header>
+      <div> 
+        <h2 style="color: black;"> Indivudual Statistics </h2>
+    
+ <input type="text" id="search-bar" placeholder="Search...">
+   </div>
+         
+        <div class="image-row">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoiUe8zYJ7k3aqtILdq88dss5kzgdCfEKDN5x-KtgSWA&s" Alt="Image 1">
+        <img src= "https://medbury.school.nz/_resized/siteassets/18360/046A4429_99b32c5dde49091122d7a98546c566c4.jpg" Alt="Image 2">
+               <div class="main-container"> 
+    <h2 style="color: black;"> Grade Statistics </h2>
+    <input type="text" id="search bar" placeholder="Search...">
+  </div>
+        </div>   
+        
+    
+
+       
+     
+      
+
+        <footer>
+    <p>&copy; I hate baxter.</p>
+</footer>
+
+    </body>
+
+
+ </html> 
