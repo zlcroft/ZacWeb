@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>The World of cricket</title>
+   <style>
+  
+    body{
+     font-family: monospacesans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;  }
+     
+       header {
+            background-color: black;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+
+       #cricket-slogan {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+       #div.mycontainer div { 
+           width: 32%;
+           float: left; 
+           margin: auto;
+           padding:5px;
+       }
+
+       footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+       
+       .img1 {width: 26%; height: 25%}
+       .img2 {width: 39%; height 25%}
+        
+    <img src="img1" style="margin: 10px;">
+<img src="img2" style="margin: 10px;">
+        </style> 
+   </head>
+    <body> 
+        
+        <header> 
+         <h1> Th3 w0r1d 0f cr1ck3t </h1> 
+         <p id="cricket-slogan">  </p>
+</header>
+      <div> 
+        <a href="https://play.nzc.nz/player/search">View player search here!</a>
+          
+          <div class="main-container"> 
+    
+        
+<a href=" https://play.nzc.nz/grades/org">View grade statistics here!</a>
+       
+        
+        
+        
+   </div>
+    
+          
+       
+        <div class="image-row">
+  <img class= "img1" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoiUe8zYJ7k3aqtILdq88dss5kzgdCfEKDN5x-KtgSWA&s" Alt="Image 1">
+        
+            
+            <img class= "img2" src= "https://medbury.school.nz/_resized/siteassets/18360/046A4429_99b32c5dde49091122d7a98546c566c4.jpg" Alt="Image 2">
+               
+          
+    
+  </div>
+          
+</style>
+</head>
+<body>
+
+<h2>Weekly Leaderboard</h2>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Stat</th>
+    <th>Club/Country</th>
+  </tr>
+  <tr>
+    <td>Baxter Bretherton</td>
+    <td>6/9</td>
+    <td>Ohoka, NZ</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+  <tr>
+    <td>Ernst Handel</td>
+    <td>Roland Mendel</td>
+    <td>Austria</td>
+  </tr>
+  <tr>
+    <td>Island Trading</td>
+    <td>Helen Bennett</td>
+    <td>UK</td>
+  </tr>
+  <tr>
+    <td>Laughing Bacchus Winecellars</td>
+    <td>Yoshi Tannamuri</td>
+    <td>Canada</td>
+  </tr>
+  <tr>
+    <td>Magazzini Alimentari Riuniti</td>
+    <td>Giovanni Rovelli</td>
+    <td>Italy</td>
+  </tr>
+  
+</table>
+        </div>   
+        
+    
+
+       
+     
+      
+
+        <footer>
+    <p>&copy; Z@ch4ry 1s N0T th3 g.0.@.T.</p>
+</footer>
+
+    </body>
+
+
+ </html> 
